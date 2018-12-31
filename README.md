@@ -37,7 +37,7 @@ Course Notes are available here - [cs230.stanford.edu](http://cs230.stanford.edu
 
 #### Exam - [Spring 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18_soln.pdf) ; [Winter 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18_soln.pdf)
 
-- [TensorFlow](https://www.tensorflow.org/) | [Keras](https://keras.io/) | [PyTorch](https://pytorch.org/) | [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) 
+- [TensorFlow](https://www.tensorflow.org/) | [Keras](https://keras.io/) | [PyTorch](https://pytorch.org/) | [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) | [deeplearning awesomelist](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 # FINAL PROJECT | [Past Projects](http://cs230.stanford.edu/projects.html)
 
