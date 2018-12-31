@@ -20,5 +20,5 @@ CS230 is again a relatively new course at Stanford, starting from 2017-18 term, 
 
 # FINAL PROJECT | [Past Projects](http://cs230.stanford.edu/projects.html)
 
-As part of taking this course, I did this project called, " ".
+Taking this course, I did this project called, " ".
 
