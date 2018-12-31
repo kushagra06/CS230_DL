@@ -17,6 +17,7 @@ CS230 is again a relatively new course at Stanford, starting from 2017-18 term, 
 
 # Programming Assignment
 
+Programming Assignments are the ones in Coursera.
 
 # [COURSE](http://cs230.stanford.edu/syllabus.html)
 
@@ -24,27 +25,19 @@ CS230 is again a relatively new course at Stanford, starting from 2017-18 term, 
 
 <h2><b> ♞ Neural Networks and Deep Learning </b></h2>
 
-𓀽 Basic concepts.
-
 <h2><b> ♞ Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization </b></h2>
-
-𓀽 Basic concepts.
 
 <h2><b> ♞ Structuring Machine Learning Projects </b></h2>
 
-𓀽 Basic concepts.
-
 <h2><b> ♞ Convolutional Neural Networks </b></h2>
-
-𓀽 Basic concepts.
 
 <h2><b> ♞ Sequence Models </b></h2>
 
-𓀽 Basic concepts.
+Course Notes are available here - [cs230.stanford.edu](http://cs230.stanford.edu/syllabus.html)
 
 #### Exam - [Spring 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18_soln.pdf) ; [Winter 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18_soln.pdf)
 
-- [CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/)
+- [CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/) | [CS230 github](https://github.com/cs230-stanford)
 
 # FINAL PROJECT | [Past Projects](http://cs230.stanford.edu/projects.html)
 
