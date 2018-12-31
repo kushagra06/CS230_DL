@@ -12,7 +12,7 @@ CS230 is again a relatively new course at Stanford, starting from 2017-18 term, 
 
 <b> Grade: Programming Assignment (25%) + Midterm (25%) + Final Project (40%) + Quizzes(8%) + Attendance (2%) </b>
 
-- [TA Handouts](http://cs230.stanford.edu/hands_on.html) | 
+- [TA Handouts](http://cs230.stanford.edu/hands_on.html) | [CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/) | [CS230 github](https://github.com/cs230-stanford)
 
 
 # Programming Assignment
@@ -37,7 +37,7 @@ Course Notes are available here - [cs230.stanford.edu](http://cs230.stanford.edu
 
 #### Exam - [Spring 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18_soln.pdf) ; [Winter 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18_soln.pdf)
 
-- [CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/) | [CS230 github](https://github.com/cs230-stanford)
+- [TensorFlow](https://www.tensorflow.org/) | [Keras](https://keras.io/) | [PyTorch](https://pytorch.org/) | [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) 
 
 # FINAL PROJECT | [Past Projects](http://cs230.stanford.edu/projects.html)
 
