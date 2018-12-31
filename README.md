@@ -1,5 +1,7 @@
 # [CS230 : Deep Learning](http://cs230.stanford.edu/)
 
+<img src="https://github.com/SKKSaikia/CS230_DL/blob/master/cs230.jpg">
+
 CS230 is again a relatively new course at Stanford, starting from 2017-18 term, but not new for the real OZ <b>"Andrew NG"</b>. Deep Learning is Everywhere and Andrew NG is Everywhere. Deep Learning Specialization on coursera 
 
 
