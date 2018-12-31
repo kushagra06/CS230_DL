@@ -2,7 +2,13 @@
 
 <img src="https://github.com/SKKSaikia/CS230_DL/blob/master/cs230.jpg">
 
-CS230 is again a relatively new course at Stanford, starting from 2017-18 term, but not new for the real OZ <b>"Andrew NG"</b>. Deep Learning is Everywhere and Andrew NG is Everywhere. Deep Learning Specialization on coursera 
+CS230 is again a relatively new course at Stanford, starting from 2017-18 term, but not new for the real OZ <b>"Andrew NG"</b>. Deep Learning is Everywhere and Andrew NG is Everywhere. I [completed](https://www.coursera.org/account/accomplishments/specialization/6K55HHWHJ8LN) the public version, / [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on coursera/deeplearning.ai, 
+
+- [1. Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+- [2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+- [3. Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+- [4. Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+- [5. Sequence Models](https://www.youtube.com/watch?v=efWlOCE_6HY&list=PL1w8k37X_6L_s4ncq-swTBvKDWnRSrinI)
 
 <b> Grade: Programming Assignment (25%) + Midterm (25%) + Final Project (40%) + Quizzes(8%) + Attendance (2%) </b>
 
