@@ -4,7 +4,7 @@
 
 CS230 is again a relatively new course at Stanford, starting from 2017-18 term, but not new for the real OZ <b>"Andrew NG"</b>. Deep Learning is Everywhere and Andrew NG is Everywhere. Deep Learning Specialization on coursera 
 
-<b> Grade: Programming Assignment (25%) + Midterm (25%) + Final Project (50%) + Quizzes(8%) + Attendance (2%) </b>
+<b> Grade: Programming Assignment (25%) + Midterm (25%) + Final Project (40%) + Quizzes(8%) + Attendance (2%) </b>
 
 # [COURSE](http://cs230.stanford.edu/syllabus.html)
 
@@ -12,9 +12,9 @@ CS230 is again a relatively new course at Stanford, starting from 2017-18 term, 
 
 # Assignment
 
-#### Exam
+#### Exam - [Spring 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_spr18_soln.pdf) ; [Winter 2018](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18.pdf) , [Solution](https://github.com/SKKSaikia/CS230_DL/blob/master/exam/cs230exam_win18_soln.pdf)
 
-[CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/)
+- [CS230 Deep Learning Resource BLOG](https://cs230-stanford.github.io/)
 
 # FINAL PROJECT
 
