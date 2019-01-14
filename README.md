@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS230_DL)
+
 # [CS230 : Deep Learning](http://cs230.stanford.edu/)
 
 <img src="https://github.com/SKKSaikia/CS230_DL/blob/master/cs230.jpg">
